@@ -6,7 +6,6 @@ const form = document.getElementById("form"),
 
 form.addEventListener("submit", (e) =>{
 
-
 })
 
 //Check Required fields
@@ -33,7 +32,7 @@ function showError(input, message){
 
 }
 
-//Show Success Message 
+//Show Success Message to the user
 
 function showSuccess(input){
     const formConrol = input.parentElement;
