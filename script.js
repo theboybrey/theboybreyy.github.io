@@ -32,7 +32,7 @@ function showError(input, message){
 
 }
 
-//Show Success Message to the user
+//Show Success Message to the User
 
 function showSuccess(input){
     const formConrol = input.parentElement;
