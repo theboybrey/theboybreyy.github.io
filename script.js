@@ -39,7 +39,7 @@ function showSuccess(input){
     formControl.className = "form-control success";
 }
 
-//Het Field Name F
+//Het Field Name 
 function getFieldName(input){
     return input.id.charAt(0).toUpperCase()+ input.id.slice(1);
 }
